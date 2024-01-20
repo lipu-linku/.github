@@ -1,6 +1,6 @@
 # Linku
 
-Linku is a free and open-source dictionary project about Toki Pona and the collection of data and tools involving it.
+Linku is a free and open-source dictionary project about Toki Pona and the collection of data and tools involving it. ([read more](https://sona.pona.la/wiki/Linku))
 
 ## Collaboration
 
