@@ -8,7 +8,7 @@ You can reach out to us on our Discord server, **[kulupu Linku](https://discord.
 
 For translators, we also have a Crowdin organisation, **[nimi Linku](https://nimi.linku.la)**.
 
-## Active repositories
+## Repositories
 
 ### Data
 
