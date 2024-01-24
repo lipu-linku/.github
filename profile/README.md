@@ -18,8 +18,8 @@ For translators, we also have a Crowdin organisation, **[nimi Linku](https://nim
 
 ### Tools
 
-* **[lipu Linku](https://github.com/lipu-linku/lipu-linku.github.io)**: a web dictionary
-* **[beta lipu Linku](https://github.com/lipu-linku/lipu-svelte)**: updated lipu Linku using SvelteKit
+* **[lipu Linku](https://github.com/lipu-linku/lipu-pini)**: a web dictionary
+* **[beta lipu Linku](https://github.com/lipu-linku/lipu)**: updated lipu Linku using SvelteKit
 * **[ilo Linku](https://github.com/lipu-linku/ilo)**: a Discord bot
 
 ### Unmaintained or archived
